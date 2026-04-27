@@ -1,10 +1,8 @@
-### Hands-On Machine Learning with Scikit-Learn and PyTorch
-
-[github](https://github.com/ageron/handson-mlp)
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
 
 ![](https://www.oreilly.com/covers/urn:orm:book:9798341607972/300w/)
 
 
-[github](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master)
+[Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master)
 ![](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781617295263.jpg)
 
